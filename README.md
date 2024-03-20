@@ -1,16 +1,41 @@
-### Hi there 👋
+# Bonjour à tous ! 👋
 
-<!--
-**cheikht1/cheikht1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+Je m'appelle Cheikh Mouhamed Tidiane Thiam et je suis débutant sur GitHub. Actuellement étudiant en intelligence artificielle et big data, je suis passionné par l'analyse de données et le machine learning. J'aspire à devenir un data scientist et je suis enthousiaste à l'idée d'apprendre et de développer mes compétences dans ce domaine fascinant.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+
+### Langages de programmation :
+
+- **Python**
+- **R**
+- **Java**
+- **SQL**
+
+### Frameworks :
+
+- **TensorFlow** et **PyTorch**
+- **Scikit-learn**
+- **Apache Spark**
+- **Keras**
+- **Apache Hadoop**
+- **Pandas**
+
+### Outils de développement :
+
+- **Jupyter Notebook**
+- **Git**
+- **Docker**
+- **Apache Zeppelin**
+- **Anaconda**
+- **Apache Kafka**
+- **Tableau**
+
+## Contact
+
+- LinkedIn : https://www.linkedin.com/in/cheikh-m-tidiane-thiam-16590a246/
+- Email : cmtt1004@gmail.com
+
+N'hésitez pas à me contacter pour toute question ou opportunité de collaboration !
+
