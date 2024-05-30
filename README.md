@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Je m'appelle Cheikh Mouhamed Tidiane Thiam et je suis débutant sur GitHub. Actuellement étudiant en intelligence artificielle et big data, je suis passionné par l'analyse de données et le machine learning. J'aspire à devenir un data scientist et je suis enthousiaste à l'idée d'apprendre et de développer mes compétences dans ce domaine fascinant.
+Je suis Cheikh Mouhamed Tidiane Thiam, passionné par les données, le DevOps et le cloud. Actuellement étudiant en intelligence artificielle et big data, je m'intéresse particulièrement à l'analyse de données, au machine learning et à l'automatisation des processus de développement et déploiement. Mon objectif est de devenir un expert en data engineering et DevOps, et je suis enthousiaste à l'idée d'explorer et de développer mes compétences dans ces domaines passionnants.
 
 ## Compétences
 
@@ -12,8 +12,9 @@ Je m'appelle Cheikh Mouhamed Tidiane Thiam et je suis débutant sur GitHub. Actu
 - **R**
 - **Java**
 - **SQL**
+- **PL/SQL**
 
-### Frameworks :
+### Frameworks et outils :
 
 - **TensorFlow** et **PyTorch**
 - **Scikit-learn**
@@ -21,21 +22,17 @@ Je m'appelle Cheikh Mouhamed Tidiane Thiam et je suis débutant sur GitHub. Actu
 - **Keras**
 - **Apache Hadoop**
 - **Pandas**
-
-### Outils de développement :
-
 - **Jupyter Notebook**
 - **Git**
 - **Docker**
-- **Apache Zeppelin**
-- **Anaconda**
-- **Apache Kafka**
-- **Tableau**
+- **Kubernetes**
+- **Jenkins**
+- **Service Cloud AWS**
+- **BI**
 
 ## Contact
 
-- LinkedIn : https://www.linkedin.com/in/cheikh-m-tidiane-thiam-16590a246/
+- LinkedIn : [lien LinkedIn](https://www.linkedin.com/in/cheikh-m-tidiane-thiam-16590a246/)
 - Email : cmtt1004@gmail.com
 
 N'hésitez pas à me contacter pour toute question ou opportunité de collaboration !
-
