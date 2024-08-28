@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Je suis Cheikh Mouhamed Tidiane Thiam, passionné par les données, le DevOps et le cloud. Actuellement étudiant en intelligence artificielle et big data, je m'intéresse particulièrement à l'analyse de données, au machine learning et à l'automatisation des processus de développement et déploiement. Mon objectif est de devenir un expert en data engineering et DevOps, et je suis enthousiaste à l'idée d'explorer et de développer mes compétences dans ces domaines passionnants.
+Je suis Cheikh Mouhamed Tidiane Thiam, passionné par les données, le DevOps, et le cloud. Actuellement étudiant en intelligence artificielle et big data à l'ESP, je me spécialise dans l'analyse de données, le machine learning, et l'automatisation des processus de développement et de déploiement. Mon objectif est de devenir un expert en data engineering et DevOps. Avec une certification AWS Cloud Practitioner et une expertise en DevOps, je suis déterminé à approfondir mes compétences et à contribuer à des projets innovants dans ces domaines.
 
 ## Compétences
 
@@ -14,24 +14,17 @@ Je suis Cheikh Mouhamed Tidiane Thiam, passionné par les données, le DevOps et
 - **SQL**
 - **PL/SQL**
 
-### Frameworks et outils :
+### Frameworks, Outils, et Technologies
 
-- **TensorFlow** et **PyTorch**
-- **Scikit-learn**
-- **Apache Spark**
-- **Keras**
-- **Apache Hadoop**
-- **Pandas**
-- **Jupyter Notebook**
-- **Git**
-- **Docker**
-- **Kubernetes**
-- **Jenkins**
-- **Service Cloud AWS**
-- **BI**
+- **Machine Learning & Data Science** : TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, Jupyter Notebook
+- **Big Data & ETL** : Apache Spark, Apache Hadoop, Talend, Alteryx
+- **Cloud & DevOps** : AWS (EC2, S3, Lambda, RDS, etc.), Docker, Kubernetes, Terraform, Ansible, et Jenkins
+- **Visualisation de Données & BI** : Tableau, Power BI, et Excel
+- **CI/CD & Monitoring** : Git, Grafana, et Prometheus
 
 ## Contact
 
+- Site Web : [Cheikh Mouhamed Tidiane](https://www.cheikhthiam.live/)
 - LinkedIn : [lien LinkedIn](https://www.linkedin.com/in/cheikh-m-tidiane-thiam-16590a246/)
 - Email : cmtt1004@gmail.com
 
